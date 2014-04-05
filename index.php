@@ -48,6 +48,19 @@
 </div>
 
 
+<!-- start of contact -->
+<div class="row">
+	<div class="col-sm-12">
+		<h2>Creation Stems From Imagination!</h2>
+		<a class="btn btn-primary" href="">
+			Let Us Work With Your Vision
+		</a>
+	</div>
+</div>
+
+<!-- end of contact -->
+
+
 <!-- end of main message -->
 
 </div><!-- /.container -->
