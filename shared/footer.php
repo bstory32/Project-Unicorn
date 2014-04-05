@@ -40,12 +40,23 @@
     						<li>000 000 0000</li>
     						<li>Email: start@tech5designs.com</li>
     					</ul>
+    					<h4>Careers</h4>
+    					
+    					<div class="input-group">
+    						<input type="text" class="form-control" placeholder="Enter Email Address">
+    						<span class="input-group-btn">
+    							<button class="btn btn-default" type="button">Go!</button>
+    						</span>
+    					</div>
+    					
     				</div>
     			</div>
     		</div>
     	</footer>
     </div>
-	<!-- end of footer -->
+
+
+    <!-- end of footer -->
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
