@@ -39,7 +39,7 @@
   					<span class="icon-bar"></span>
   					<span class="icon-bar"></span>
   				</button>
-  				<a class="navbar-brand" href="#">Tech 5 Designs</a>
+  				<a class="navbar-brand" href="#"><h1>Tech 5 Designs</h1></a>
   			</div>
   			<div class="collapse navbar-collapse">
   				<ul class="nav navbar-nav navbar-right">
