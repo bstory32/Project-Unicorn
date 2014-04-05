@@ -8,7 +8,7 @@
 	<meta name="author" content="">
 	<link rel="shortcut icon" href="favicon.ico">
 
-	<title>Starter Template for Bootstrap</title>
+	<title>Tech 5 Designs</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="public/css/bootstrap.min.css" rel="stylesheet">
@@ -43,7 +43,37 @@
   			<div class="collapse navbar-collapse">
   				<ul class="nav navbar-nav navbar-right">
   					<li class="active"><a href="#">Home</a></li>
-  					<li><a href="#about">About</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Content Management Systems</a></li>
+                <li><a href="#">eCommerce Platforms</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Front End Development</a></li>
+                <li><a href="#">Web Development</a></li>
+                <li><a href="#">Backend Development</a></li>
+                <li><a href="#">Project Management</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Real Estate</a></li>
+                <li><a href="#">Technology</a></li>
+                <li><a href="#">Startups</a></li>
+              </ul>
+            </li>
+  					<li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Wordpress</a></li>
+                <li><a href="#">Django</a></li>
+                <li class="divider"></li>
+                <li><a href="#">HTML5</a></li>
+                <li><a href="#">PHP / Mysql</a></li>
+                <li><a href="#">Python</a></li>
+              </ul>
+            </li>
   					<li><a href="#contact">Contact</a></li>
   				</ul>
   			</div><!--/.nav-collapse -->
