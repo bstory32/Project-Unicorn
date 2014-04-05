@@ -1,44 +1,46 @@
     <!-- Start of footer -->
     <div class="footer-bg">
     	<footer>
-    		<div class="row">
-    			<div class="col-sm-3">
-    				<h4>title</h4>
-    				<ul>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    				</ul>
-    			</div>
-    			<div class="col-sm-3">
-    				<h4>title</h4>
-    				<ul>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    				</ul>
-    			</div>
-    			<div class="col-sm-3">
-    				<h4>title</h4>
-    				<ul>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    					<li><a href="">link</a></li>
-    				</ul>
-    			</div>
-    			<div class="col-sm-3">
-    				<h4>Contact Us</h4>
-    				<ul>
-    					<li>Chicago, IL</li>
-    					<li>000 000 0000</li>
-    					<li>Email: start@tech5designs.com</li>
-    				</ul>
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-sm-3">
+    					<h4>title</h4>
+    					<ul>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    					</ul>
+    				</div>
+    				<div class="col-sm-3">
+    					<h4>title</h4>
+    					<ul>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    					</ul>
+    				</div>
+    				<div class="col-sm-3">
+    					<h4>title</h4>
+    					<ul>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    						<li><a href="">link</a></li>
+    					</ul>
+    				</div>
+    				<div class="col-sm-3">
+    					<h4>Contact Us</h4>
+    					<ul>
+    						<li>Chicago, IL</li>
+    						<li>000 000 0000</li>
+    						<li>Email: start@tech5designs.com</li>
+    					</ul>
+    				</div>
     			</div>
     		</div>
     	</footer>
