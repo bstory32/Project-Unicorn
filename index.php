@@ -2,23 +2,26 @@
 <?php include('shared/header.php'); ?>
 <!-- End of header -->
 
-<div class="container">
 
-  <!-- Start of main header -->
 
-  <div class="row">
-    <div class="col-sm-12">
-      <h1>Content Focused, Results Driven!</h1>
-      <h2>With a touch of creative vision.</h2>
+<!-- Start of main header -->
+
+<div class="block blue-bg">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h1>Content Focused, Results Driven!</h1>
+        <h2>With a touch of creative vision.</h2>
+      </div>
     </div>
   </div>
+</div>
+
+<!-- end of main header -->
 
 
-  <!-- end of main header -->
-
-
-  <!-- start of main message -->
-
+<!-- start of main message -->
+<div class="container">
   <div class="row">
     <div class="col-sm-12">
       <h1>You Dream It, We Build It</h1>
