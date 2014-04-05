@@ -1,5 +1,6 @@
 .navbar-inverse{
 	background: #201E1C;
+	border: 0;
 }
 .navbar-brand{
 	background: url(../images/tech5_light.png) no-repeat;
@@ -15,10 +16,8 @@
 	color: #FFF;
 }
 .navbar-inverse .navbar-nav>li>a {
-	background: #425863;
-	border-left: solid 1px #797979;
-	border-right: solid 1px #797979;
-	border-bottom: solid 1px #797979;
+	background: inherit;
+	transition: background-color 0.5s ease;
 }
 .navbar-inverse .navbar-nav> li.active >a {
 	background: #48A3A6;
@@ -33,15 +32,18 @@
 .navbar-inverse .navbar-nav>.open>a:hover, 
 .navbar-inverse .navbar-nav>.open>a:focus{
 	background-color: #48A3A6;
+	transition: background-color 0.5s ease;
 }
 .navbar-inverse .navbar-nav>.active>a, 
 .navbar-inverse .navbar-nav>.active>a:hover, 
 .navbar-inverse .navbar-nav>.active>a:focus{
-	background-color: inherit;
+	background-color: #48A3A6;
+	transition: background-color 0.5s ease;
 }
 .navbar-inverse .navbar-nav>li>a:hover, 
 .navbar-inverse .navbar-nav>li>a:focus{
 	background-color: #51C1C5;
+	
 }
 @media (min-width: 768px){
 	.navbar-inverse .navbar-nav>li>a {
