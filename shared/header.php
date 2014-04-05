@@ -12,6 +12,7 @@
 
 	<!-- Bootstrap core CSS -->
 	<link href="public/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="public/css/top-nav.css">
 	<link rel="stylesheet" href="public/css/main.css">
 
 	<!-- Just for debugging purposes. Don't actually copy this line! -->
@@ -75,6 +76,7 @@
               </ul>
             </li>
   					<li><a href="#contact">Contact</a></li>
+            <li><a href="#contact">Careers</a></li>
   				</ul>
   			</div><!--/.nav-collapse -->
   		</div>
