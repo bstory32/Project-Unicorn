@@ -1,0 +1,12 @@
+.navbar-inverse{
+	background: rgba(44, 62, 80,.9)
+}
+.navbar-brand{
+	background: url(../images/tech5_light.png) no-repeat;
+	background-size: 10em;
+	text-indent: -9999px;
+	height: 30px;
+	position: absolute;
+	bottom: .5em;
+	left: 30px
+}
