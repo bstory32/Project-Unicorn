@@ -4,6 +4,8 @@ body {
 	font-weight: 300;
 }
 
+/*Start of index styling*/
+
 .block h2{
 	text-align: center;
 }
@@ -30,7 +32,7 @@ body {
 
 }
 .picture-bg h1{
-	margin-bottom: 25px;
+	margin-bottom: 50px;
 }
 
 
@@ -43,6 +45,9 @@ body {
 	color: #51C1C5;
 	
 }
+
+
+
 .strategy h2{
 	border-bottom: 2px solid #333;
 	margin: 0 10em;
@@ -52,3 +57,34 @@ body {
 .strategy h3{
 	text-align: center;
 }
+
+/*End of index styling*/
+
+
+/*Start of Services Styling*/
+.cms-features span{
+	font-size: 75px;
+	border-radius: 50%;
+	border: 6px solid #201E1C;
+	padding: 25px;
+	background: #51C1C5;
+	color: #201E1C;
+}
+
+.cms-features h1{
+	text-align: center;
+}
+
+/*End of Services Styling*/
+
+
+
+
+/*Start of ecommerce styling*/
+
+
+/*End of ecommerce styling*/
+
+
+
+
