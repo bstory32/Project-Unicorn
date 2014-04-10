@@ -10,24 +10,36 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-12">
-			<span class="glyphicon glyphicon-globe"></span>
+		<div class="col-sm-8">
 			<h3>Title</h3>
+			<span class="glyphicon glyphicon-globe"></span>
+			
+		</div>
+		
+		<div class-"col-sm-4">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed, eaque, nisi, ipsum eius reprehenderit id quo voluptatibus quidem pariatur eos vel impedit minima accusantium nulla alias omnis illum unde.</p>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-12">
-			<span class="glyphicon glyphicon-globe"></span>
+		<div class="col-sm-8">
 			<h3>Title</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, optio, maiores, dolor veniam quibusdam nesciunt hic cupiditate aperiam quis temporibus ipsam accusantium ab distinctio fugit velit voluptates voluptatum laboriosam vero.</p>
+			<span class="glyphicon glyphicon-globe"></span>
+			
+		</div>
+		
+		<div class-"col-sm-4">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed, eaque, nisi, ipsum eius reprehenderit id quo voluptatibus quidem pariatur eos vel impedit minima accusantium nulla alias omnis illum unde.</p>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-12">
-			<span class="glyphicon glyphicon-globe"></span>
+		<div class="col-sm-8">
 			<h3>Title</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, ex, aspernatur, delectus, qui dolor atque ullam fugiat assumenda commodi impedit iste ad neque corporis dolorem natus architecto quasi quos exercitationem.</p>
+			<span class="glyphicon glyphicon-globe"></span>
+			
+		</div>
+		
+		<div class-"col-sm-4">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, sed, eaque, nisi, ipsum eius reprehenderit id quo voluptatibus quidem pariatur eos vel impedit minima accusantium nulla alias omnis illum unde.</p>
 		</div>
 	</div>
 	
