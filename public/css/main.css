@@ -1,5 +1,5 @@
 body {
-	padding-top: 50px;
+	padding-top: 96px;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 	font-weight: 300;
 }
@@ -74,6 +74,12 @@ body {
 .cms-features h1{
 	text-align: center;
 }
+
+.cms-features {
+	
+	text-align: center;
+}
+
 
 /*End of Services Styling*/
 
