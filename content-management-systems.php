@@ -19,7 +19,7 @@
 	<!-- Start of list of features  -->
 
 
-	<div class="cms-features">
+	
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
@@ -33,35 +33,36 @@
 					<li>Flexible and Responsive CMS Interface</li>
 				</ul>
 				</div>
+				<div class="cms-features">
 				<div class="col-sm-3">
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-pencil"></span>
 					<h2>Text Editing</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, expedita doloribus consectetur. Nam, ipsum iste atque id voluptate vel nihil soluta velit aliquid cum commodi sequi rerum non dicta fugit!</p>
 				</div>
 				<div class="col-sm-3">
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-camera"></span>
 					<h2>Image Management</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, eligendi, porro, distinctio nobis illo impedit ea perferendis dolore dolorum nostrum repellendus veniam incidunt iste officia vitae quibusdam ratione. Eligendi, cum.</p>
 				</div>
 			
 			<div class="row">
 				<div class="col-sm-3">
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-plus"></span>
 					<h2>Multi-Tiered User Permissions</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, numquam, dolorem, voluptatibus adipisci aperiam deserunt ad accusamus recusandae repellendus illum esse aliquid debitis ipsum veniam expedita earum laudantium. Eius, quo.</p>
 				</div>
 				<div class="col-sm-3">
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-briefcase"></span>
 					<h2>Lead Generation Web Forms</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel, temporibus, assumenda eos eligendi provident aperiam earum perferendis modi voluptatum laudantium ratione non iure et ullam aliquam consequuntur nihil similique magni.</p>
 				</div>
 				<div class="col-sm-3">
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-flash"></span>
 					<h2>Subpage Creation</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, dolorem, consequuntur esse similique illo eos cumque voluptatem ratione cupiditate sit optio accusamus itaque voluptate qui adipisci blanditiis amet. Beatae, eius.</p>
 				</div>
 				<div class="col-sm-3">
-					<span class="glyphicon glyphicon-star"></span>
+					<span class="glyphicon glyphicon-transfer"></span>
 					<h2>E-commerce Functionality</h2>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, eaque adipisci ipsam dolorum a vero quia. Reprehenderit, magni, assumenda blanditiis illum ut ducimus suscipit ullam veritatis laboriosam laborum facilis magnam!</p>
 				</div>
