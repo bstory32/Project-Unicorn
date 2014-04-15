@@ -3,10 +3,13 @@ body {
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
 	font-weight: 300;
 }
+
+/*Start of index styling*/
+
 #homepage{
 	margin-top: -50px;
 }
-/*Start of index styling*/
+
 
 .block h2{
 	text-align: center;
@@ -89,8 +92,17 @@ body {
 
 
 /*Start of ecommerce styling*/
-
-
+.information-message img{
+	font-size: 75px;
+	border-radius: 50%;
+	border: 4px solid #201E1C;
+	padding: 10px;
+	background: #51C1C5;
+	color: #201E1C;
+}
+.information-message h3{
+	text-align: center;
+}
 /*End of ecommerce styling*/
 
 
