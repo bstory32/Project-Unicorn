@@ -45,7 +45,10 @@
   			<div class="collapse navbar-collapse">
   				<ul class="nav navbar-nav navbar-right">
   					<li><a href="index.php">Home</a></li>
-            <li class="dropdown">
+            <li>
+              <a href="web-development.php">Web Development</a>
+            </li>
+            <!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="content-management-systems.php">Content Management Systems</a></li>
@@ -56,16 +59,19 @@
                 <li><a href="backend-development.php">Backend Development</a></li>
                 <li><a href="project-management.php">Project Management</a></li>
               </ul>
-            </li>
-            <li class="dropdown">
+            </li> -->
+            <!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Industries <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="real-estate.php">Real Estate</a></li>
                 <li><a href="technology.php">Technology</a></li>
                 <li><a href="startups.php">Startups</a></li>
               </ul>
+            </li> -->
+            <li>
+              <a href="#">Technology</a>
             </li>
-  					<li class="dropdown">
+  					<!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="wordpress.php">Wordpress</a></li>
@@ -75,9 +81,9 @@
                 <li><a href="php-mysql.php">PHP / Mysql</a></li>
                 <li><a href="python.php">Python</a></li>
               </ul>
-            </li>
+            </li> -->
   					<li class="highlight"><a href="contact.php">Contact</a></li>
-            <li class="highlight"><a href="careers.php">Careers</a></li>
+            <!-- <li class="highlight"><a href="careers.php">Careers</a></li> -->
   				</ul>
   			</div><!--/.nav-collapse -->
   		</div>
