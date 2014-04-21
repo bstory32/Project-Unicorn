@@ -5,76 +5,76 @@
 
 
 <!-- Start of main header -->
-
-<div class="block blue-bg">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h1>Content Focused, Results Driven!</h1>
-        <h2>With a touch of creative vision.</h2>
+<div id="homepage">
+  <div class="block blue-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Content Focused, Results Driven!</h1>
+          <h2>With a touch of creative vision.</h2>
+        </div>
       </div>
     </div>
   </div>
-</div>
 
-<!-- end of main header -->
+  <!-- end of main header -->
 
 
-<!-- start of main message -->
+  <!-- start of main message -->
 
-<div class="block picture-bg">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        <h1>You Dream It, We Build It</h1>
+  <div class="block picture-bg">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>You Dream It, We Build It</h1>
+        </div>
+        <div class="row">
+         <div class="col-sm-3">
+          <a href="">
+            <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
+          </a>
+        </div>
+        <div class="col-sm-3">
+          <a href="">
+            <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
+          </a>
+        </div>
+        <div class="col-sm-3">
+          <a href="">
+            <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
+          </a>
+        </div>
+
+        <div class="col-sm-3">
+          <a href="">
+            <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
+          </a>
+        </div>
       </div>
+      
       <div class="row">
        <div class="col-sm-3">
         <a href="">
-          <img src="http://placekitten.com/g/200/200" alt="">
+          <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
         </a>
       </div>
       <div class="col-sm-3">
         <a href="">
-          <img src="http://placekitten.com/g/200/200" alt="">
+          <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
         </a>
       </div>
       <div class="col-sm-3">
         <a href="">
-          <img src="http://placekitten.com/g/200/200" alt="">
+          <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
         </a>
       </div>
-
       <div class="col-sm-3">
         <a href="">
-          <img src="http://placekitten.com/g/200/200" alt="">
+          <!-- <img src="http://placekitten.com/g/200/200" alt=""> -->
         </a>
       </div>
-    </div>
-    
-    <div class="row">
-     <div class="col-sm-3">
-      <a href="">
-        <img src="http://placekitten.com/g/200/200" alt="">
-      </a>
-    </div>
-    <div class="col-sm-3">
-      <a href="">
-        <img src="http://placekitten.com/g/200/200" alt="">
-      </a>
-    </div>
-    <div class="col-sm-3">
-      <a href="">
-        <img src="http://placekitten.com/g/200/200" alt="">
-      </a>
-    </div>
-    <div class="col-sm-3">
-      <a href="">
-        <img src="http://placekitten.com/g/200/200" alt="">
-      </a>
     </div>
   </div>
-</div>
 </div>
 </div>
 </div>
@@ -86,11 +86,11 @@
     <div class="row">
      <div class="col-sm-12">
       <h2>Creation Stems From Imagination!</h2>
-       <h3>Let Us Work With Your Vision</h3>
-     </a>
-   </div>
+      <h3>Let Us Work With Your Vision</h3>
+    </a>
   </div>
-  </div>
+</div>
+</div>
 </div>
 <!-- end of contact -->
 
@@ -136,7 +136,7 @@
   <!-- end of main message -->
 
 </div><!-- /.process -->
-
+</div>
 
 
 <!-- Start of footer -->
