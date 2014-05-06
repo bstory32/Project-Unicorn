@@ -164,27 +164,110 @@ body {
 
 /* line 66, ../../dev/css/_base.scss */
 .creative-bg {
-  background: url(../images/creative-bg.jpg);
+  background: url(http://cdn0.stocksy.com/a/JCl000/z0/181431.jpg);
   background-size: cover;
+
 }
 
 /* line 70, ../../dev/css/_base.scss */
 .creative-bg2 {
-  background: url(../images/creative-bg2.jpg);
+  background: url(http://cdn1.stocksy.com/a/Ykk000/z0/179710.jpg);
   background-size: cover;
 }
 
 /* line 74, ../../dev/css/_base.scss */
 .creative-bg3 {
-  background: url(../images/creative-bg3.jpg);
+  background: url(http://cdn0.stocksy.com/a/lCh000/z0/166083.jpg);
   background-size: cover;
 }
 
 /* line 78, ../../dev/css/_base.scss */
 .creative-bg4 {
-  background: url(../images/creative-bg4.jpg);
+  background: url(http://cdn0.stocksy.com/a/pxZ000/z0/138249.jpg);
   background-size: cover;
 }
+
+
+
+
+
+
+
+/*start of work section styling*/
+.background-style1 {
+  background: url(../images/bo_play_pattern.png);
+  
+}
+
+.main-header h3{
+  font-weight: 600;
+  font-size: 55px;
+  text-shadow: -1px 2px 3px black;
+  color: #0076a7;
+}
+.main-header h4{
+  font-size: 25px;
+  color: white;
+}
+.work p{
+  font-weight: 600;
+  color: white;
+}
+
+/*end of work section styling*/
+
+/*start of services section styling*/
+
+.specialties ul, li{
+  text-align: left;
+  margin: 50px 0 0 50px;
+  font-size: 20px;
+}
+
+.specialties h2{
+  font-weight: 600;
+  
+  text-shadow: -1px 2px 3px black;
+  color: #a70000;
+}
+.specialties ul, li{
+  list-style: none;
+}
+/*end of services section styling*/
+
+
+/*start of team section styling*/
+.names h3, img{
+  text-align: center;
+}
+.team-header h2{
+  font-weight: 600;
+  font-size: 55px;
+  text-shadow: -1px 2px 3px black;
+  color: #47a700;
+}
+
+.background-style2 {
+  background: url(../images/woven.png);
+}
+
+/*end of team section styling*/
+
+/*start of contact section styling*/
+
+.contact h2{
+  font-weight: 600;
+  font-size: 55px;
+  text-shadow: -1px 2px 3px black;
+  color: #0076a7;
+}
+.contact {
+ 
+}
+
+/*end of contact section styling*/
+
+
 
 @-webkit-keyframes bounce {
   /* line 112, ../../dev/css/_base.scss */
@@ -369,7 +452,7 @@ body {
 
 /* line 193, ../../dev/css/_base.scss */
 .process p {
-  margin: 48px auto;
+  margin: 37px auto;
   width: 600px;
 }
 
